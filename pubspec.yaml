@@ -51,10 +51,10 @@ flutter_launcher_name:
 flutter_icons:
   ios: true
   android: true
-  image_path_ios: "assets/img/takbiratul.png"
-  image_path_android: "assets/img/takbiratul.png"
-  adaptive_icon_background: "assets/img/takbiratul.png"
-  adaptive_icon_foreground: "assets/img/takbiratul.png"
+  image_path_ios: "assets/logo/shalat_sunah.png"
+  image_path_android: "assets/logo/shalat_sunah.png"
+  adaptive_icon_background: "assets/logo/shalat_sunah.png"
+  adaptive_icon_foreground: "assets/logo/shalat_sunah.png"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -92,6 +92,7 @@ flutter:
     - assets/img/sujud.png
     - assets/img/takbiratul.png
     - assets/img/back.png
+    - assets/logo/shalat_sunah.png
     - img/
     
 
